@@ -1,1 +1,1 @@
-Updated GitHub for pull request
+Updated GitHub for pull request assignment
